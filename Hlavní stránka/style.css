@@ -1,0 +1,106 @@
+html {
+    height: 100%
+}
+
+body {
+        background-color:bisque;
+        background-image: url(images/cakes11.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav {
+    background-color: bisque;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    text-align: center;
+    border-top: 4px solid #d2691e;
+    border-bottom: 4px solid #d2691e;
+    position: sticky;
+    top: 0;
+}
+
+
+.foto {
+    padding-right: 900px;
+    padding-top: 15px;
+    height: 100px;
+    padding-bottom: 25px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    background: rgb(34, 34, 34, 0.7);
+}
+
+
+footer {
+    background-color: rgb(241, 187, 143);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #e05413c7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-decoration:none;
+}
+
+p {
+    font-size: 18px;
+    color:#ffffff;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.highlight {
+    background-image: linear-gradient(to right, #110e17, #d2691e);
+    border-radius: 6px;
+    padding:3px, 6px;
+}
+
+a {
+    color:#d2691e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+footer p {
+    font-size: 14px;
+    text-align: center;
+    color:whitesmoke
+}
+
+.maps {
+    padding-bottom: 2px;
+    padding-top: 40px;
+}
